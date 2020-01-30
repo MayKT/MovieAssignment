@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">LoadingImageRetrofit</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="downloads">Downloads</string>
+    <string name="more">More</string>
+    <string name="login">Login</string>
+    <string name="error_connecting">Error In Connecting</string>
+    <string name="please_check_your_internet_connection">Please check your connection</string>
+    <string name="error">Error</string>
+    <string name="error_retrieving_data">Error Retriving Data</string>
+    <string name="incorrect_user_name_or_password">Incorrect User name or Password</string>
+    <string name="please_fill_in_username">Please fill in User name</string>
+    <string name="please_fill_in_password">Please fill in password</string>
+    <string name="ok">OK</string>
+
+    <string name="youAreNotUpdatedTitle">Update Available</string>
+    <string name="youAreNotUpdatedMessage">A new version of JCGV is available. Please update to version</string>
+    <string name="update">Update</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Popular</string>
+    <string name="Trending_Movies">Trending Movies</string>
+    <string name="Now_Playing">Now Playing</string>
+    <string name="home_fragment">Movies</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="selected">selected</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Play">Play</string>
+    <string name="mylist">MyList</string>
+    <string name="rate">Rate</string>
+    <string name="Movies">Movies</string>
+
+</resources>
